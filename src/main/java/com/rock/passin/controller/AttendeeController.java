@@ -1,7 +1,6 @@
 package com.rock.passin.controller;
 
 import com.rock.passin.dto.attendees.AttendessBadgeResponseDTO;
-import com.rock.passin.dto.attendees.BadgeDTO;
 import com.rock.passin.service.AttendeeService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

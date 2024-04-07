@@ -9,7 +9,6 @@ import com.rock.passin.dto.attendees.AttendessDetailDTO;
 import com.rock.passin.dto.attendees.AttendessListResponseDTO;
 import com.rock.passin.dto.attendees.BadgeDTO;
 import com.rock.passin.repository.AttendeeRepository;
-import com.rock.passin.repository.CheckinRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.web.util.UriComponentsBuilder;
